@@ -17,6 +17,9 @@ kleuren voor mijn website
 #0D7377
 #14FFEC
 
+fonts 
+font-family: 'Anton', sans-serif;
+
 Link for Pictogram
 
 <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>

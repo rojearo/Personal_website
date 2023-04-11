@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Lobster&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -12,6 +14,7 @@
   align-items: center;
   justify-items: center;
   color: #0d7377;
+  font-family: 'Anton', sans-serif;
 }
 
 .navbar ul {
@@ -33,6 +36,7 @@
   width: 100%;
   height: 900px;
   background-color: #323232;
+  font-family: 'Anton', sans-serif;
 }
 
 .Banner-Text {
@@ -59,16 +63,17 @@ span {
 }
 
 .Programming-Language img {
-  width: 10%;
+  width: 150px;
 }
 
 .school {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 400px;
+  padding: 50px;
   width: 100%;
   background-color: #323232;
+  font-family: 'Anton', sans-serif;
 }
 
 .school-text {
@@ -80,22 +85,22 @@ span {
   width: 80%;
 }
 
-.school-text h2{
+.school-text h2 {
   color: #0d7377;
   font-size: 80px;
 }
 
-.school-text p{
+.school-text p {
   display: flex;
   width: 60%;
   font-size: 40px;
 }
 
-.school-text ul{
+.school-text ul {
   display: flex;
   flex-direction: column;
 }
 
-.school-text li{
+.school-text li {
   font-size: 30px;
 }
