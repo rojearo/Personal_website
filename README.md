@@ -17,4 +17,8 @@ kleuren voor mijn website
 #0D7377
 #14FFEC
 
+Link for Pictogram
 
+<a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by Pixel perfect - Flaticon</a>
