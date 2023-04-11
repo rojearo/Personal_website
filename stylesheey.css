@@ -6,8 +6,11 @@
 .navbar {
   display: flex;
   justify-content: space-between;
-  margin-top: 15px;
-  margin-left: 15px;
+  padding: 15px;
+  background-color: #212121;
+  align-items: center;
+  justify-items: center;
+  color: #0d7377;
 }
 
 ul {
@@ -17,24 +20,29 @@ ul {
 li {
   display: flex;
   width: 100px;
+  color: #14ffec;
 }
 
-.Banner{
-    margin-top: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
+.Banner {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #323232;
 }
 
-.Banner-Text{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 50%;
-    font-size: 40px;
+.Banner-Text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  font-size: 40px;
+  color: #14ffec;
 }
 
-span{
-    font-size: 100px;
+span {
+  font-size: 100px;
+  color: #0d7377;
 }
