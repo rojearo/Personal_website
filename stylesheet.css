@@ -14,7 +14,7 @@
   align-items: center;
   justify-items: center;
   color: #0d7377;
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
 }
 
 .navbar ul {
@@ -23,7 +23,8 @@
 
 .navbar li {
   display: flex;
-  width: 100px;
+  width: 200px;
+  font-size: 30px;
   color: #14ffec;
 }
 
@@ -36,7 +37,7 @@
   width: 100%;
   height: 900px;
   background-color: #323232;
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
 }
 
 .Banner-Text {
@@ -54,6 +55,8 @@ span {
 }
 
 .Programming-Language {
+  padding-top: 50px;
+  padding-bottom: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -63,6 +66,7 @@ span {
 }
 
 .Programming-Language img {
+  padding: 15px;
   width: 150px;
 }
 
@@ -70,10 +74,11 @@ span {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   width: 100%;
   background-color: #323232;
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
 }
 
 .school-text {
