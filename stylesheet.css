@@ -5,6 +5,13 @@
   padding: 0;
 }
 
+body{
+  background-image: url("images/landscape.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -36,16 +43,20 @@
   justify-content: center;
   width: 100%;
   height: 900px;
-  background-color: #323232;
-  font-family: "Anton", sans-serif;
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .Banner-Text {
+  padding: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 50%;
   font-size: 40px;
+  font-family: "Anton", sans-serif;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 15px;
   color: #14ffec;
 }
 
@@ -62,7 +73,7 @@ span {
   justify-content: center;
   gap: 100px;
   width: 100%;
-  background-color: #212121;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .Programming-Language img {
